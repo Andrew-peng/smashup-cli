@@ -1,0 +1,4 @@
+click
+prompt_toolkit
+rich
+tomli; python_version < "3.11"
